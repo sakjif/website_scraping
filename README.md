@@ -31,7 +31,7 @@ If it is not activated, activate it by running
 source venv/bin/activate (on Linux)
 venv\Scripts\activate (on Windows)
 ```
-3. #### Don't forget about config variables in ```.env``` file:(DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT, DB_TABLE = data)
+3. #### Don't forget about config variables in ```.env``` file:(DB_NAME, DB_USER, DB_PASSWORD, DB_HOST, DB_PORT, DB_TABLE)
 
 
 4. We are using Docker to run this app. All build instructions are in docker-compose, 
